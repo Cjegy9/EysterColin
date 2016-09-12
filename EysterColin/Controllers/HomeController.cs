@@ -26,5 +26,10 @@ namespace EysterColin.Controllers
 
             return View();
         }
+
+        public ActionResult Resume()
+        {
+            return View();
+        }
     }
 }
