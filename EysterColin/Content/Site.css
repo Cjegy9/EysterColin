@@ -27,3 +27,9 @@ textarea {
     background-color: transparent;
     border-color: transparent;
 }
+
+.bg {
+    background: url(/Content/images/Software-Code.jpg);
+    height: 550px;
+    border: none;
+}
