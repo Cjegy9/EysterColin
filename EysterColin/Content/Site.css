@@ -29,7 +29,16 @@ textarea {
 }
 
 .bg {
-    background: url(/Content/images/Software-Code.jpg);
-    height: 550px;
-    border: none;
+    background: url('http://placehold.it/2500x450') top center no-repeat;
+    height: 500px;
+    text-align: center;
+
+}
+
+#portfolio {
+    text-align: center;
+}
+
+.myimage {
+    margin-top: 100px;
 }
