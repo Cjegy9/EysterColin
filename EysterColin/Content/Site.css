@@ -29,8 +29,8 @@ textarea {
 }
 
 .bg {
-    background: url('http://placehold.it/2500x450') top center no-repeat;
-    height: 500px;
+    background: url('images/pexels-photo-51415.jpeg')no-repeat;
+    height: 900px;
     text-align: center;
 
 }
@@ -40,5 +40,18 @@ textarea {
 }
 
 .myimage {
-    margin-top: 100px;
+    margin-top: 200px;
+    font-size: 30px;
+    color: aliceblue;
 }
+
+.myimage h1 {
+    font-size: 50px;
+}
+
+
+#portfolio img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
